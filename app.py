@@ -1,7 +1,8 @@
 #Anggota Kelompok
-#Efendi Kisnoto            19090057
+# Kelas 6A
+#Efendi Kisnoto             19090057
 #Irvan Akbar Febriansyah    19090099
-#Doni Cahya Adi Saputra    19090114
+#Doni Cahya Adi Saputra     19090114
 #Arifullah                  19090010
 
 
